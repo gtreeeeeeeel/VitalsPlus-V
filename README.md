@@ -1,2 +1,2 @@
-# Hunger-ThirstV
-Hunger&amp;ThirstV is a GTA V script.
+# Vitals+ V
+Vitals+ V is a GTA V script.
